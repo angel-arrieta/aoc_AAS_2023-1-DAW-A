@@ -63,7 +63,7 @@ fun main(){
             }
         }
     }
-    var sumIDs: Int = 0
+    var sumIDs = 0
     for (id in idsPosibleGames) {
         sumIDs += id
     }
